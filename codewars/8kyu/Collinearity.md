@@ -33,6 +33,8 @@ all coordinates are integers
 (5,7,0,0) ➞ true
 ```
 
+---
+
 - Fundamentals
 - Geometry
 - Mathematics

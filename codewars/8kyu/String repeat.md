@@ -7,5 +7,7 @@ Write a function that accepts an integer n and a string s as parameters, and ret
 5, "Hello" -> "HelloHelloHelloHelloHello"
 ```
 
+---
+
 - Fundamentals
 - Strings

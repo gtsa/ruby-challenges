@@ -16,5 +16,7 @@ Given a year, return the century it is in.
 
 Note: this kata uses strict construction as shown in the description and the examples, you can read more about it here
 
+---
+
 - Fundamentals
 - Mathematics

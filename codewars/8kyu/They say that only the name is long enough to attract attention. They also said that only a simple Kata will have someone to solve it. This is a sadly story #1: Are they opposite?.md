@@ -13,5 +13,7 @@ The `opposite` means: All letters of the two strings are the same, but the case 
 "",""         -> false
 ```
 
+---
+
 - Puzzles
 - Games
