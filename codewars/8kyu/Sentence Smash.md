@@ -22,6 +22,8 @@ We're testing basic loops and string manipulation. This is for beginners who are
 ### Disclaimer
 This is for beginners so we want to test basic loops and string manipulation. Advanced users should easily be able to do this in one line.
 
+---
+
 - Strings
 - Arrays
 - Fundamentals

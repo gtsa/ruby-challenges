@@ -6,4 +6,6 @@ Output :: "Position of alphabet: 1"
 
 **Note: Only lowercased English letters are tested**
 
+---
+
 - Fundamentals

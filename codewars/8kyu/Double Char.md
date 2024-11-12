@@ -10,5 +10,7 @@ Given a string, you have to return a string in which each character (case-sensit
 
 Good Luck!
 
+---
+
 - Fundamentals
 - Strings

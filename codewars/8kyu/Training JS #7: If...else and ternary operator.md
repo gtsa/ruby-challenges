@@ -62,5 +62,7 @@ In the end, click "Submit" to submit your code and pass this kata.
 Series:
 ```
 
+---
+
 - Fundamentals
 - Tutorials
